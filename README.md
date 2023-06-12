@@ -23,3 +23,7 @@ Explore customer behavior and preferences by analyzing data such as customer dem
 # Inventory Management: 
 
 Monitor and optimize your inventory levels by tracking metrics like stock turnover, out-of-stock instances, and supplier performance. Use line charts or tables to present this information and identify any inventory-related issues or trends.
+
+# Tools and Technology used-
+  1. Microsoft Power BI
+  2. MS Excel
